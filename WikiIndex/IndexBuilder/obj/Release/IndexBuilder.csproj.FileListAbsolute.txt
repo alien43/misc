@@ -1,0 +1,5 @@
+C:\Documents and Settings\aapetrov\Мои документы\Visual Studio 2008\Projects\WikiIndex\IndexBuilder\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\aapetrov\Мои документы\Visual Studio 2008\Projects\WikiIndex\IndexBuilder\bin\Release\IndexBuilder.exe
+C:\Documents and Settings\aapetrov\Мои документы\Visual Studio 2008\Projects\WikiIndex\IndexBuilder\bin\Release\IndexBuilder.pdb
+C:\Documents and Settings\aapetrov\Мои документы\Visual Studio 2008\Projects\WikiIndex\IndexBuilder\obj\Release\IndexBuilder.exe
+C:\Documents and Settings\aapetrov\Мои документы\Visual Studio 2008\Projects\WikiIndex\IndexBuilder\obj\Release\IndexBuilder.pdb

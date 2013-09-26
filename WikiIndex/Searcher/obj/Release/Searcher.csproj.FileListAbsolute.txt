@@ -1,0 +1,5 @@
+C:\Documents and Settings\aapetrov\Мои документы\Visual Studio 2008\Projects\WikiIndex\Searcher\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\aapetrov\Мои документы\Visual Studio 2008\Projects\WikiIndex\Searcher\bin\Release\Searcher.exe
+C:\Documents and Settings\aapetrov\Мои документы\Visual Studio 2008\Projects\WikiIndex\Searcher\bin\Release\Searcher.pdb
+C:\Documents and Settings\aapetrov\Мои документы\Visual Studio 2008\Projects\WikiIndex\Searcher\obj\Release\Searcher.exe
+C:\Documents and Settings\aapetrov\Мои документы\Visual Studio 2008\Projects\WikiIndex\Searcher\obj\Release\Searcher.pdb

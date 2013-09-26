@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MachineLearningLibrary", "Machine Learning Library\Machine Learning Library.vcproj", "{AE0D89F0-CA5B-4C40-9D6E-0BE1EDBEC377}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE0D89F0-CA5B-4C40-9D6E-0BE1EDBEC377}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AE0D89F0-CA5B-4C40-9D6E-0BE1EDBEC377}.Debug|Win32.Build.0 = Debug|Win32
+		{AE0D89F0-CA5B-4C40-9D6E-0BE1EDBEC377}.Release|Win32.ActiveCfg = Release|Win32
+		{AE0D89F0-CA5B-4C40-9D6E-0BE1EDBEC377}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

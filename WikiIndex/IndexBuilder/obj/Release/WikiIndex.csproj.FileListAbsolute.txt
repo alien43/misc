@@ -1,0 +1,10 @@
+E:\Documents and Settings\Alien\My Documents\Visual Studio 2008\Projects\WikiIndex\WikiIndex\bin\Release\WikiIndex.exe
+E:\Documents and Settings\Alien\My Documents\Visual Studio 2008\Projects\WikiIndex\WikiIndex\bin\Release\WikiIndex.pdb
+E:\Documents and Settings\Alien\My Documents\Visual Studio 2008\Projects\WikiIndex\WikiIndex\obj\Release\ResolveAssemblyReference.cache
+E:\Documents and Settings\Alien\My Documents\Visual Studio 2008\Projects\WikiIndex\WikiIndex\obj\Release\WikiIndex.exe
+E:\Documents and Settings\Alien\My Documents\Visual Studio 2008\Projects\WikiIndex\WikiIndex\obj\Release\WikiIndex.pdb
+C:\Documents and Settings\aapetrov\Мои документы\Visual Studio 2008\Projects\WikiIndex\WikiIndex\obj\Release\WikiIndex.exe
+C:\Documents and Settings\aapetrov\Мои документы\Visual Studio 2008\Projects\WikiIndex\WikiIndex\obj\Release\WikiIndex.pdb
+C:\Documents and Settings\aapetrov\Мои документы\Visual Studio 2008\Projects\WikiIndex\WikiIndex\bin\Release\WikiIndex.exe
+C:\Documents and Settings\aapetrov\Мои документы\Visual Studio 2008\Projects\WikiIndex\WikiIndex\bin\Release\WikiIndex.pdb
+C:\Documents and Settings\aapetrov\Мои документы\Visual Studio 2008\Projects\WikiIndex\WikiIndex\obj\Release\ResolveAssemblyReference.cache

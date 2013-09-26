@@ -1,0 +1,5 @@
+C:\Documents and Settings\aapetrov\Мои документы\Visual Studio 2008\Projects\LanguageRecognition\RecognitionLearner\bin\Debug\RecognitionLearner.exe
+C:\Documents and Settings\aapetrov\Мои документы\Visual Studio 2008\Projects\LanguageRecognition\RecognitionLearner\bin\Debug\RecognitionLearner.pdb
+C:\Documents and Settings\aapetrov\Мои документы\Visual Studio 2008\Projects\LanguageRecognition\RecognitionLearner\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\aapetrov\Мои документы\Visual Studio 2008\Projects\LanguageRecognition\RecognitionLearner\obj\Debug\RecognitionLearner.exe
+C:\Documents and Settings\aapetrov\Мои документы\Visual Studio 2008\Projects\LanguageRecognition\RecognitionLearner\obj\Debug\RecognitionLearner.pdb

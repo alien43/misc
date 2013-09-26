@@ -1,0 +1,5 @@
+E:\Documents and Settings\Alien\My Documents\Visual Studio 2008\Projects\WikiIndex\WikiIndex\bin\Debug\WikiIndex.exe
+E:\Documents and Settings\Alien\My Documents\Visual Studio 2008\Projects\WikiIndex\WikiIndex\bin\Debug\WikiIndex.pdb
+E:\Documents and Settings\Alien\My Documents\Visual Studio 2008\Projects\WikiIndex\WikiIndex\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\Alien\My Documents\Visual Studio 2008\Projects\WikiIndex\WikiIndex\obj\Debug\WikiIndex.exe
+E:\Documents and Settings\Alien\My Documents\Visual Studio 2008\Projects\WikiIndex\WikiIndex\obj\Debug\WikiIndex.pdb

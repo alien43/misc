@@ -1,0 +1,5 @@
+C:\Documents and Settings\aapetrov\Мои документы\Visual Studio 2008\Projects\LanguageRecognition\Recognizer\bin\Debug\Recognizer.exe
+C:\Documents and Settings\aapetrov\Мои документы\Visual Studio 2008\Projects\LanguageRecognition\Recognizer\bin\Debug\Recognizer.pdb
+C:\Documents and Settings\aapetrov\Мои документы\Visual Studio 2008\Projects\LanguageRecognition\Recognizer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\aapetrov\Мои документы\Visual Studio 2008\Projects\LanguageRecognition\Recognizer\obj\Debug\Recognizer.exe
+C:\Documents and Settings\aapetrov\Мои документы\Visual Studio 2008\Projects\LanguageRecognition\Recognizer\obj\Debug\Recognizer.pdb

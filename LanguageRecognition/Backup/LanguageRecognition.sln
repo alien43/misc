@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecognitionLearner", "RecognitionLearner\RecognitionLearner.csproj", "{85363B13-368E-4B12-9AA8-B6A4E4E88EDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recognizer", "Recognizer\Recognizer.csproj", "{19333E90-E476-4D20-BAAF-61B4AB8A3A8F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FA1FD13D-E7DB-4ACA-A5E3-3551985E2B5C}"
+	ProjectSection(SolutionItems) = preProject
+		Rule.cs = Rule.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85363B13-368E-4B12-9AA8-B6A4E4E88EDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85363B13-368E-4B12-9AA8-B6A4E4E88EDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85363B13-368E-4B12-9AA8-B6A4E4E88EDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85363B13-368E-4B12-9AA8-B6A4E4E88EDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19333E90-E476-4D20-BAAF-61B4AB8A3A8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19333E90-E476-4D20-BAAF-61B4AB8A3A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19333E90-E476-4D20-BAAF-61B4AB8A3A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19333E90-E476-4D20-BAAF-61B4AB8A3A8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

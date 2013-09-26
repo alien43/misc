@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="LanguageRecognition">
+</Property><Property Name="Solution File" Value="C:\Users\aapetrov\Documents\Visual Studio 2008\Projects\LanguageRecognition\LanguageRecognition.sln">
+</Property><Property Name="User Options File" Value="C:\Users\aapetrov\Documents\Visual Studio 2008\Projects\LanguageRecognition\LanguageRecognition.suo">
+</Property><Property Name="Date" Value="27 сентября 2013 г.">
+</Property><Property Name="Time" Value="1:20">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="LanguageRecognition.sln" Description="File successfully backed up as C:\Users\aapetrov\Documents\Visual Studio 2008\Projects\LanguageRecognition\Backup\LanguageRecognition.sln">
+</Event><Event ErrorLevel="0" Project="" Source="LanguageRecognition.suo" Description="File successfully backed up as C:\Users\aapetrov\Documents\Visual Studio 2008\Projects\LanguageRecognition\Backup\LanguageRecognition.suo">
+</Event><Event ErrorLevel="0" Project="" Source="LanguageRecognition.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="LanguageRecognition.sln" Description="Converted">
+</Event></UpgradeLog>

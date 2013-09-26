@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WikiIndex">
+</Property><Property Name="Solution File" Value="C:\Users\aapetrov\Documents\Visual Studio 2008\Projects\WikiIndex\WikiIndex.sln">
+</Property><Property Name="User Options File" Value="C:\Users\aapetrov\Documents\Visual Studio 2008\Projects\WikiIndex\WikiIndex.suo">
+</Property><Property Name="Date" Value="6 мая 2010 г.">
+</Property><Property Name="Time" Value="16:32">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="WikiIndex.sln" Description="File successfully backed up as C:\Users\aapetrov\Documents\Visual Studio 2008\Projects\WikiIndex\Backup\WikiIndex.sln">
+</Event><Event ErrorLevel="0" Project="" Source="WikiIndex.suo" Description="File successfully backed up as C:\Users\aapetrov\Documents\Visual Studio 2008\Projects\WikiIndex\Backup\WikiIndex.suo">
+</Event><Event ErrorLevel="0" Project="Searcher" Source="Searcher\Searcher.csproj" Description="Project file successfully backed up as C:\Users\aapetrov\Documents\Visual Studio 2008\Projects\WikiIndex\Backup\Searcher\Searcher.csproj">
+</Event><Event ErrorLevel="0" Project="Searcher" Source="Searcher\IndexSearcher.cs" Description="File successfully backed up as C:\Users\aapetrov\Documents\Visual Studio 2008\Projects\WikiIndex\Backup\Searcher\IndexSearcher.cs">
+</Event><Event ErrorLevel="0" Project="Searcher" Source="Searcher\Parser.cs" Description="File successfully backed up as C:\Users\aapetrov\Documents\Visual Studio 2008\Projects\WikiIndex\Backup\Searcher\Parser.cs">
+</Event><Event ErrorLevel="0" Project="Searcher" Source="Searcher\Program.cs" Description="File successfully backed up as C:\Users\aapetrov\Documents\Visual Studio 2008\Projects\WikiIndex\Backup\Searcher\Program.cs">
+</Event><Event ErrorLevel="0" Project="Searcher" Source="Searcher\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\aapetrov\Documents\Visual Studio 2008\Projects\WikiIndex\Backup\Searcher\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Searcher" Source="Searcher\Searcher.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Searcher" Source="Searcher\Searcher.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="IndexBuilder" Source="IndexBuilder\IndexBuilder.csproj" Description="Project file successfully backed up as C:\Users\aapetrov\Documents\Visual Studio 2008\Projects\WikiIndex\Backup\IndexBuilder\IndexBuilder.csproj">
+</Event><Event ErrorLevel="0" Project="IndexBuilder" Source="IndexBuilder\IndexBuilder.cs" Description="File successfully backed up as C:\Users\aapetrov\Documents\Visual Studio 2008\Projects\WikiIndex\Backup\IndexBuilder\IndexBuilder.cs">
+</Event><Event ErrorLevel="0" Project="IndexBuilder" Source="IndexBuilder\Parser.cs" Description="File successfully backed up as C:\Users\aapetrov\Documents\Visual Studio 2008\Projects\WikiIndex\Backup\IndexBuilder\Parser.cs">
+</Event><Event ErrorLevel="0" Project="IndexBuilder" Source="IndexBuilder\Program.cs" Description="File successfully backed up as C:\Users\aapetrov\Documents\Visual Studio 2008\Projects\WikiIndex\Backup\IndexBuilder\Program.cs">
+</Event><Event ErrorLevel="0" Project="IndexBuilder" Source="IndexBuilder\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\aapetrov\Documents\Visual Studio 2008\Projects\WikiIndex\Backup\IndexBuilder\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="IndexBuilder" Source="IndexBuilder\IndexBuilder.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="IndexBuilder" Source="IndexBuilder\IndexBuilder.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WikiIndex.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="WikiIndex.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Searcher" Source="Searcher\Searcher.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="IndexBuilder" Source="IndexBuilder\IndexBuilder.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
